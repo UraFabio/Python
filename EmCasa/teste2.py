@@ -1,3 +1,3 @@
-a = list(range(25))
-for i in a:
-    print(i)
+teste = [1]*26
+
+print(teste)
