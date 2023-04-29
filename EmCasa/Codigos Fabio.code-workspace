@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Users/fabio/OneDrive/Área de Trabalho/Projeto ACENIBRA"
+		},
+		{
+			"path": "../../Users/fabio/OneDrive/Área de Trabalho/Projeto teste"
+		},
+		{
+			"path": "../../Users/fabio/OneDrive/Área de Trabalho/Portfolio Fabio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Projeto ACENIBRA"
+	}
+}
